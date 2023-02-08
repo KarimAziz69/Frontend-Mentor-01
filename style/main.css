@@ -3,6 +3,11 @@
     padding: 0;
     box-sizing: border-box;
 }
+@media only screen and (max-width: 600px) {
+    .atc {
+        font-size: 4px;
+    }
+  }
 body {
     font-family: sans-serif;
     background-color:rgb(243, 234, 227);
